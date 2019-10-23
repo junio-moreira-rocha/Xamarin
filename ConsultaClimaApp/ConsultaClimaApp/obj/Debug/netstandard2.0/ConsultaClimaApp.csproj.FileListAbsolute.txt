@@ -1,0 +1,15 @@
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\bin\Debug\netstandard2.0\ConsultaClimaApp.deps.json
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\bin\Debug\netstandard2.0\ConsultaClimaApp.dll
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\bin\Debug\netstandard2.0\ref\ConsultaClimaApp.dll
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\bin\Debug\netstandard2.0\ConsultaClimaApp.pdb
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\ConsultaClimaApp.csprojAssemblyReference.cache
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\Pages\CidadeFavoritaPage.xaml.g.cs
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\Pages\DetalheCidadePage.xaml.g.cs
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\Pages\SelecaoCidadePage.xaml.g.cs
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\ConsultaClimaApp.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\ConsultaClimaApp.AssemblyInfo.cs
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\ConsultaClimaApp.dll
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\ref\ConsultaClimaApp.dll
+C:\Users\junio\source\repos\ConsultaClimaApp\ConsultaClimaApp\ConsultaClimaApp\obj\Debug\netstandard2.0\ConsultaClimaApp.pdb
